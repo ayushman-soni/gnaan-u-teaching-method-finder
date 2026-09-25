@@ -1,10 +1,4 @@
 # 📖 Gnaan U — Teaching Method Finder
-### Complete Project Specification & Internship Deliverables Handover
-**Submitted by:** Ayushman Soni  
-**Project:** Curriculum Analysis & Teaching Method Finder Prototype for Maharashtra State Board Textbooks  
-**Deliverables Covered:** D1 to D9  
-
----
 
 ## 📌 1. Project Overview & Objective
 This project implements the **Gnaan U Teaching Method Finder**, an automated curriculum analysis tool that parses Maharashtra State Board textbooks (Grades 1 through 12 across Science, Mathematics, Social Studies, and Languages) to identify, validate, and document **genuine Teaching Methods**.
@@ -40,15 +34,7 @@ Rather than simple keyword extraction, the system enforces Gnaan U's strict 5-pi
 - Python 3.10 or higher
 - Pip
 
-### Install Dependencies
-```bash
-cd "C:\Users\Ayushman Soni\.gemini\antigravity\scratch\gnaan_u_teaching_method_finder"
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 4. How to Run the Application
+ How to Run the Application
 
 ### Launch the Web Prototype (Primary Structured Table View):
 ```bash
