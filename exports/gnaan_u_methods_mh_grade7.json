@@ -1,0 +1,297 @@
+[
+  {
+    "method_name": "Paper Chromatography through Capillary Separation",
+    "validation_status": "VALID_METHOD",
+    "confidence": "HIGH",
+    "learning_focus": "Separation of components of a mixture based on differences in constituent solubility",
+    "intended_learners_context": "Standard SEVEN",
+    "teaching_approach": "Direct experiential observation of capillary solvent migration and dye separation",
+    "instructional_procedure": [
+      "Take a rectangular strip of filter paper (approximately 15 cm x 2 cm).",
+      "Draw a pencil line 2 cm from the bottom edge and place a drop of blue ink on it, allowing it to dry.",
+      "Suspend paper strip vertically in a beaker containing 1 cm water, ensuring the ink spot remains above water level.",
+      "Observe water rising by capillary action and the ink spot separating into distinct colored bands at different heights.",
+      "Connect differential migration heights to differences in component solubility in the solvent."
+    ],
+    "student_effort": [
+      "Observation of capillary solvent ascent",
+      "Comparison of color band heights",
+      "Inference connecting band heights to constituent solubility"
+    ],
+    "learning_connection": "Observed differential movement connects physical migration directly to component solubility in the solvent, proving ink is a mixture.",
+    "questions_or_prompts": [
+      "Why do the different color components climb to different heights on the filter paper?"
+    ],
+    "resources_setup": [
+      "250 ml glass beaker",
+      "Whatman filter paper strip (15 cm x 2 cm)",
+      "Blue writing ink",
+      "Water",
+      "Pencil and ruler"
+    ],
+    "practical_conditions": "Paper must be placed upright; ink spot must be kept above water level.",
+    "indications_of_learning": [
+      "Identify ink as a mixture",
+      "Explain differential migration based on solubility"
+    ],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 6: Measurement and Physical Properties of Substances",
+      "section": "",
+      "pages": [
+        1
+      ]
+    },
+    "source_evidence": "Take a rectangular strip of filter paper... put a drop of blue ink at about 2 cm from one edge... as water rises, the ink spot separates into two or more distinct colored bands at different heights.",
+    "validation_reason": "VALID_METHOD: Source provides a complete, source-supported instructional sequence with apparatus, student observations, and an explicit conceptual connection to mixture separation.",
+    "missing_information": [],
+    "source_quality": "CLEAN",
+    "inference_notes": []
+  },
+  {
+    "method_name": "Isolated End-of-Chapter Assessment Questions",
+    "validation_status": "REJECTED",
+    "confidence": "HIGH",
+    "learning_focus": "Summative topic review",
+    "intended_learners_context": "Standard SEVEN",
+    "teaching_approach": "Not specified in source.",
+    "instructional_procedure": [],
+    "student_effort": [
+      "Rote recall / answering test questions"
+    ],
+    "learning_connection": "Not explicitly established in source.",
+    "questions_or_prompts": [
+      "1. What is meant by chromatography?",
+      "2. Which property forms the basis for separating components in chromatography?",
+      "3. Give two real-world examples of mixtures separated by physical methods."
+    ],
+    "resources_setup": [
+      "Not specified in source."
+    ],
+    "practical_conditions": "Not specified in source.",
+    "indications_of_learning": [
+      "Written examination answers"
+    ],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 6: Measurement and Physical Properties (Continued)",
+      "section": "",
+      "pages": [
+        2
+      ]
+    },
+    "source_evidence": "Chapter 6: Measurement and Physical Properties (Continued)\nClassroom Teaching Suggestions for Teachers:\n• Teacher should conduct a discussion in the classroom about different mixtures seen in daily li",
+    "validation_reason": "REJECTED: Standalone summative review questions do not constitute an instructional procedure.",
+    "missing_information": [
+      "Instructional procedure",
+      "Active learning connection",
+      "Teacher scaffolding"
+    ],
+    "source_quality": "CLEAN",
+    "inference_notes": []
+  },
+  {
+    "method_name": "Magnetic Field Line Mapping using Iron Filings / Floating Pins",
+    "validation_status": "VALID_METHOD",
+    "confidence": "HIGH",
+    "learning_focus": "Visualizing lines of magnetic force and field intensity distribution around a bar magnet",
+    "intended_learners_context": "Standard SEVEN",
+    "teaching_approach": "Physical visualization of invisible magnetic forces through particle alignment",
+    "instructional_procedure": [
+      "Place a strong bar magnet horizontally in the center of a wooden table.",
+      "Cover the bar magnet with a smooth sheet of white cardboard.",
+      "Uniformly sprinkle iron filings thinly over the cardboard surface using a sifter.",
+      "Gently tap the cardboard edge 3-4 times with a fingertip.",
+      "Direct students to observe iron filings aligning into continuous curved lines between poles.",
+      "Guide students to observe line concentration at the poles compared to the center."
+    ],
+    "student_effort": [
+      "Observation of self-aligning patterns under vibration",
+      "Sketching curved magnetic field lines",
+      "Comparison of field line density at poles vs center"
+    ],
+    "learning_connection": "Each iron filing becomes an induced magnetic dipole and aligns along the magnetic field vector. The curved paths physically visualize lines of force, and dense lines at poles demonstrate maximum field intensity.",
+    "questions_or_prompts": [
+      "Where is the concentration of iron filings highest?"
+    ],
+    "resources_setup": [
+      "Strong bar magnet",
+      "Smooth sheet of white cardboard",
+      "Fine iron filings",
+      "Sifter"
+    ],
+    "practical_conditions": "Flat non-metallic surface; avoid direct contact between filings and magnet poles.",
+    "indications_of_learning": [
+      "Sketch magnetic field lines around a bar magnet",
+      "Identify North and South pole concentration"
+    ],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 19: Properties of a Magnetic Field",
+      "section": "",
+      "pages": [
+        3
+      ]
+    },
+    "source_evidence": "Place a strong bar magnet... place white cardboard over it... sprinkle iron filings... tap gently... notice iron filings arrange themselves into distinct curved lines.",
+    "validation_reason": "VALID_METHOD: Full sequential procedure with physical apparatus, tactile tapping, active pattern observation, and explicit conceptual mapping to magnetic field vectors.",
+    "missing_information": [],
+    "source_quality": "CLEAN",
+    "inference_notes": []
+  },
+  {
+    "method_name": "Standalone Teaching Resource Mention",
+    "validation_status": "REJECTED",
+    "confidence": "HIGH",
+    "learning_focus": "Resource repository",
+    "intended_learners_context": "Not specified in source.",
+    "teaching_approach": "Not specified in source.",
+    "instructional_procedure": [],
+    "student_effort": [],
+    "learning_connection": "Not explicitly established in source.",
+    "questions_or_prompts": [],
+    "resources_setup": [
+      "Chapter 19: Magnetic Field (Continued)",
+      "Observe and Discuss:",
+      "Look at the picture of the Earth's magnetic field on the board. Observe how compass needles point north."
+    ],
+    "practical_conditions": "Not specified in source.",
+    "indications_of_learning": [],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 19: Magnetic Field (Continued)",
+      "section": "",
+      "pages": [
+        4
+      ]
+    },
+    "source_evidence": "Chapter 19: Magnetic Field (Continued)\nObserve and Discuss:\nLook at the picture of the Earth's magnetic field on the board. Observe how compass needles point north.\nTry this at home: Take a needle, st",
+    "validation_reason": "REJECTED: Resources alone (videos, worksheets, apparatus) without an accompanying instructional sequence cannot be documented as a Teaching Method.",
+    "missing_information": [
+      "Instructional procedure",
+      "Student effort",
+      "Learning connection"
+    ],
+    "source_quality": "CLEAN",
+    "inference_notes": []
+  },
+  {
+    "method_name": "Plant Identification through Morphological Differences",
+    "validation_status": "REVIEW_REQUIRED",
+    "confidence": "MEDIUM",
+    "learning_focus": "Identifying plants using observable differences in their plant parts (roots, stems, leaves, flowers, fruits)",
+    "intended_learners_context": "Standard SEVEN",
+    "teaching_approach": "Not specified in source.",
+    "instructional_procedure": [
+      "Source poses the question: 'What helps us to easily identify the plants around us?' and states that different plants have different roots, stems, leaves, flowers and fruits."
+    ],
+    "student_effort": [
+      "Observation of plant characteristics (inferred from text, but no concrete sequential protocol is commanded)"
+    ],
+    "learning_connection": "Source explicitly notes that differences in plant organs serve as identifying characteristics, but does not provide an instructional sequence linking observation to systematic classification.",
+    "questions_or_prompts": [
+      "What helps us to easily identify the plants around us?"
+    ],
+    "resources_setup": [
+      "Not specified in source."
+    ],
+    "practical_conditions": "Not specified in source.",
+    "indications_of_learning": [
+      "Identify plants using different characteristics of roots, stems, leaves, flowers and fruits"
+    ],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 2: Plants: Structure and Function",
+      "section": "",
+      "pages": [
+        5
+      ]
+    },
+    "source_evidence": "What helps us to easily identify the plants around us? Different plants have different roots, stems, leaves, flowers and fruits. We can identify plants with the help of these characteristics.",
+    "validation_reason": "REVIEW_REQUIRED: Source establishes a clear learning focus (identifying plants by part differences), but provides no step-by-step instructional sequence, materials, or student tasks. The procedure is insufficiently specified.",
+    "missing_information": [
+      "Step-by-step instructional sequence for observing, recording, and comparing plant specimens",
+      "Specific plant specimens or observation criteria",
+      "Teacher guidance protocol"
+    ],
+    "source_quality": "CLEAN",
+    "inference_notes": [
+      "Teachers often have students collect or observe local specimens, but this is an unsupported assumption not present in the text."
+    ]
+  },
+  {
+    "method_name": "Geometric Construction of an Angle Bisector",
+    "validation_status": "VALID_METHOD",
+    "confidence": "HIGH",
+    "learning_focus": "Constructing an angle bisector using compass and ruler",
+    "intended_learners_context": "Standard SEVEN",
+    "teaching_approach": "Direct geometric construction using drafting instruments",
+    "instructional_procedure": [
+      "Draw an angle ∠ABC of given measure using a protractor.",
+      "Place the compass point on vertex B and draw an arc cutting ray BA at P and ray BC at Q.",
+      "Place compass on P and draw an arc inside the angle; with the same radius, place compass on Q and draw an intersecting arc at O.",
+      "Draw ray BO to form the angle bisector dividing ∠ABC into two equal parts."
+    ],
+    "student_effort": [
+      "Drawing angle with protractor",
+      "Manipulating compass and drawing intersecting arcs",
+      "Verifying equality of divided angle measures"
+    ],
+    "learning_connection": "Equal compass radii ensure point O is equidistant from both rays, geometrically proving ray BO bisects the angle into two equal halves.",
+    "questions_or_prompts": [],
+    "resources_setup": [
+      "Ruler",
+      "Protractor",
+      "Compass",
+      "Pencil"
+    ],
+    "practical_conditions": "Geometric instrument box required; compass radius must remain unchanged when drawing intersecting arcs.",
+    "indications_of_learning": [
+      "Construct an angle bisector accurately",
+      "Demonstrate that the bisector divides an angle into two equal angles"
+    ],
+    "source": {
+      "board": "Maharashtra State Board",
+      "publisher": "Balbharati",
+      "standard": "Standard SEVEN",
+      "medium": "English",
+      "subject": "Science",
+      "book": "Maharashtra State Board Grade 7 Science",
+      "chapter": "Chapter 1: Basic Concepts in Geometry — Angle Bisector",
+      "section": "",
+      "pages": [
+        6
+      ]
+    },
+    "source_evidence": "Draw an angle ∠ABC... place compass point on vertex B... place compass on P and draw an arc... ray BO is the angle bisector.",
+    "validation_reason": "VALID_METHOD: Complete ordered procedural sequence with designated geometric tools, student construction steps, and explicit geometric reasoning.",
+    "missing_information": [],
+    "source_quality": "CLEAN",
+    "inference_notes": []
+  }
+]

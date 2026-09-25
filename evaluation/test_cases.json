@@ -1,0 +1,101 @@
+[
+  {
+    "id": "TC_001_CHROMATOGRAPHY",
+    "category": "valid_method",
+    "expected_validation": "VALID_METHOD",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 6: Measurement and Physical Properties of Substances",
+    "pages": "Page 1",
+    "page_numbers": [1],
+    "passage": "Apparatus & Materials: A 250 ml glass beaker, a strip of Whatman filter paper (or blotting paper), blue writing ink, a pencil, a ruler, and water. Procedure: 1. Take a rectangular strip of filter paper measuring approximately 15 cm in length and 2 cm in width. 2. Using a pencil, draw a light horizontal line across the strip about 2 cm above the bottom edge. 3. Place a small concentrated drop of blue ink in the center of this line using a fine dropper or nib and let it dry. 4. Pour a small quantity of water into the beaker so that it reaches a depth of about 1 cm. 5. Suspend the paper strip vertically inside the beaker so the bottom edge dips into the water, but the ink spot remains strictly above water. 6. Observe as water climbs up the paper strip through capillary action. 7. The original blue spot separates into distinct colored bands at different heights. Learning Connection: The different dye components of ink have different solubilities in water and different adsorption to paper fibers. The more soluble component ascends faster and reaches a greater height. This proves ink is a mixture of multiple distinct pigments.",
+    "evaluation_notes": "VALID_METHOD: Full sequential procedure with apparatus, active student observation, and explicit causal link between differential migration and mixture composition."
+  },
+  {
+    "id": "TC_002_MAGNETIC_LINES",
+    "category": "valid_method",
+    "expected_validation": "VALID_METHOD",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 19: Properties of a Magnetic Field",
+    "pages": "Page 3",
+    "page_numbers": [3],
+    "passage": "Materials: A strong bar magnet, a stiff sheet of white cardboard, fine iron filings, a sifter. Instructional Procedure: 1. Place a strong bar magnet horizontally in the center of a wooden table. 2. Place a sheet of smooth white cardboard directly over the bar magnet. 3. Using a fine sifter, sprinkle iron filings evenly and thinly over the entire surface of the cardboard. 4. Instruct students to gently tap the edge of the cardboard with a fingertip 3 to 4 times. 5. Direct student observation: Notice how the scattered iron filings immediately twist and arrange themselves into distinct, continuous curved lines stretching from one pole of the magnet to the other. 6. Guide students to observe the concentration of lines at the North and South poles compared to the center. Learning Connection: Each iron filing becomes an induced magnetic dipole and aligns along the direction of the magnetic field vector. The curved paths visualize lines of magnetic force and demonstrate that magnetic field intensity is strongest near the poles.",
+    "evaluation_notes": "VALID_METHOD: Concrete instructional procedure with physical apparatus, tactile tapping action, active pattern observation, and explicit mapping to magnetic field vectors."
+  },
+  {
+    "id": "TC_003_GENERIC_DISCUSSION",
+    "category": "general_suggestion",
+    "expected_validation": "REJECTED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 6: Measurement and Physical Properties of Substances",
+    "pages": "Page 2",
+    "page_numbers": [2],
+    "passage": "Teacher should conduct a discussion in the classroom about different mixtures seen in daily life, such as tea, sherbet, and air. Ask students to form small groups and discuss why pure water is a compound while salt water is a mixture.",
+    "evaluation_notes": "REJECTED: Generic teaching suggestion. Lacks structured procedure, scaffolded prompts, concrete student output, and evidence-backed connection."
+  },
+  {
+    "id": "TC_004_USE_DIAGRAM",
+    "category": "general_suggestion",
+    "expected_validation": "REJECTED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 6: Measurement and Physical Properties of Substances",
+    "pages": "Page 2",
+    "page_numbers": [2],
+    "passage": "Use a diagram from page 45 to show the arrangement of particles in solids, liquids, and gases. Teachers should do an experiment demonstrating melting of ice when convenient.",
+    "evaluation_notes": "REJECTED: Generic phrase 'use a diagram' and 'do an experiment' without an instructional sequence, step-by-step guidance, or learning mechanism."
+  },
+  {
+    "id": "TC_005_INCOMPLETE_STROKE_NEEDLE",
+    "category": "incomplete_candidate",
+    "expected_validation": "REVIEW_REQUIRED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 19: Properties of a Magnetic Field",
+    "pages": "Page 4",
+    "page_numbers": [4],
+    "passage": "Observe and Discuss: Look at the picture of the Earth's magnetic field on the board. Observe how compass needles point north. Try this at home: Take a needle, stroke it with a magnet, and see if it can attract small paper clips.",
+    "evaluation_notes": "REVIEW_REQUIRED: Prompt has an exploratory idea, but missing essential procedure (direction of stroke, single vs double touch method, polarity check) and explicit learning connection explaining domain alignment."
+  },
+  {
+    "id": "TC_006_RESOURCE_ALONE",
+    "category": "resource_only",
+    "expected_validation": "REJECTED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 19: Properties of a Magnetic Field",
+    "pages": "Page 4",
+    "page_numbers": [4],
+    "passage": "Supplementary Teaching Resources: Educational Video CD: 'Mysteries of Magnetism' (DIKSHA portal QR Code). Activity Worksheet No. 7: Magnetism Crossword Puzzle. Laboratory apparatus: Magnetic compass, Horseshoe magnet, iron stand.",
+    "evaluation_notes": "REJECTED: Pure resource listing with zero instructional steps or pedagogical routine."
+  },
+  {
+    "id": "TC_007_ISOLATED_EXERCISE_QUESTIONS",
+    "category": "not_a_method",
+    "expected_validation": "REJECTED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 6: Measurement and Physical Properties of Substances",
+    "pages": "Page 2",
+    "page_numbers": [2],
+    "passage": "Exercises and Questions: 1. What is meant by chromatography? 2. Which property forms the basis for separating components in chromatography? 3. Give two real-world examples of mixtures separated by physical methods.",
+    "evaluation_notes": "REJECTED: End-of-chapter summative assessment questions. Not an instructional procedure."
+  },
+  {
+    "id": "TC_008_PLANT_IDENTIFICATION",
+    "category": "insufficient_procedure",
+    "expected_validation": "REVIEW_REQUIRED",
+    "source_book": "Maharashtra State Board Grade 7 Science",
+    "chapter": "Chapter 2: Plants: Structure and Function",
+    "pages": "Page 5",
+    "page_numbers": [5],
+    "passage": "What helps us to easily identify the plants around us? Observe the plants around you and discuss their parts with your classmates. The root, stem, leaves, flowers, fruits, etc. of different plants are different. We can identify plants with the help of these different characteristics. Let us now examine these plant organs in more detail.",
+    "evaluation_notes": "REVIEW_REQUIRED: Clear learning focus (identifying plants by part differences), but procedural steps are not sufficiently defined in the source (one-line observation/discussion prompt without recording protocol or structured procedure). Must NOT invent steps or resources."
+  },
+  {
+    "id": "TC_009_ANGLE_BISECTOR",
+    "category": "valid_method",
+    "expected_validation": "VALID_METHOD",
+    "source_book": "Maharashtra State Board Grade 6 Mathematics",
+    "chapter": "Chapter 1: Basic Concepts in Geometry",
+    "pages": "Page 6",
+    "page_numbers": [6],
+    "passage": "Materials & Instruments: Compass box containing ruler, pencil, compass with sharp pencil tip, and blank paper. Step-by-step Construction Procedure: 1. Draw any angle ∠ABC of measure 70° on the paper using a protractor and ruler. 2. Place the metallic point of the compass at vertex B. Taking any convenient radius, draw an arc to cut ray BA at point P and ray BC at point Q. 3. Now, place the point of the compass at point P. Taking a radius more than half the distance between P and Q, draw an arc inside the angle. 4. Without changing the radius, place the compass point at point Q and draw another arc intersecting the previous arc. Name the point of intersection as O. 5. Draw a straight ray from vertex B passing through point O using a ruler. Ray BO is the required angle bisector of ∠ABC. 6. Verification: Measure ∠ABO and ∠CBO using a protractor. Both angles measure exactly 35°, demonstrating that ray BO bisects ∠ABC into two congruent angles. Mathematical Principle & Learning Connection: Points on the angle bisector are equidistant from the two arms of the angle. By maintaining equal radii from points P and Q, point O forms two congruent triangles (ΔBPO ≅ ΔBQO by SSS congruence), ensuring ∠PBO = ∠QBO.",
+    "evaluation_notes": "VALID_METHOD: Full step-by-step geometric construction routine with explicit materials, precise mathematical procedure, student verification step, and underlying geometric rationale."
+  }
+]

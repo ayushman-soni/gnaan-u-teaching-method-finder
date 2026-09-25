@@ -1,0 +1,154 @@
+{
+  "total_test_cases": 9,
+  "correct_classifications": 9,
+  "accuracy_percent": 100.0,
+  "detailed_results": [
+    {
+      "id": "TC_001_CHROMATOGRAPHY",
+      "category": "valid_method",
+      "expected": "VALID_METHOD",
+      "actual": "VALID_METHOD",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Paper Chromatography through Capillary Separation",
+      "learning_focus": "Separation of components of a mixture based on differences in constituent solubility",
+      "resources": [
+        "250 ml glass beaker",
+        "Whatman filter paper strip (15 cm x 2 cm)",
+        "Blue writing ink",
+        "Water",
+        "Pencil and ruler"
+      ],
+      "procedure_steps": 5,
+      "reason": "VALID_METHOD: Source provides a complete, source-supported instructional sequence with apparatus, student observations, and an explicit conceptual connection to mixture separation."
+    },
+    {
+      "id": "TC_002_MAGNETIC_LINES",
+      "category": "valid_method",
+      "expected": "VALID_METHOD",
+      "actual": "VALID_METHOD",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Magnetic Field Line Mapping using Iron Filings / Floating Pins",
+      "learning_focus": "Visualizing lines of magnetic force and field intensity distribution around a bar magnet",
+      "resources": [
+        "Strong bar magnet",
+        "Smooth sheet of white cardboard",
+        "Fine iron filings",
+        "Sifter"
+      ],
+      "procedure_steps": 6,
+      "reason": "VALID_METHOD: Full sequential procedure with physical apparatus, tactile tapping, active pattern observation, and explicit conceptual mapping to magnetic field vectors."
+    },
+    {
+      "id": "TC_003_GENERIC_DISCUSSION",
+      "category": "general_suggestion",
+      "expected": "REJECTED",
+      "actual": "REJECTED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Unspecified Classroom Discussion / Diagram Suggestion",
+      "learning_focus": "General chapter topic",
+      "resources": [
+        "Not specified in source."
+      ],
+      "procedure_steps": 0,
+      "reason": "REJECTED: Generic pedagogical advice ('conduct a discussion', 'use a diagram') without concrete instructional steps, structured student tasks, or explicit learning connection."
+    },
+    {
+      "id": "TC_004_USE_DIAGRAM",
+      "category": "general_suggestion",
+      "expected": "REJECTED",
+      "actual": "REJECTED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Unspecified Classroom Discussion / Diagram Suggestion",
+      "learning_focus": "General chapter topic",
+      "resources": [
+        "Not specified in source."
+      ],
+      "procedure_steps": 0,
+      "reason": "REJECTED: Generic pedagogical advice ('conduct a discussion', 'use a diagram') without concrete instructional steps, structured student tasks, or explicit learning connection."
+    },
+    {
+      "id": "TC_005_INCOMPLETE_STROKE_NEEDLE",
+      "category": "incomplete_candidate",
+      "expected": "REVIEW_REQUIRED",
+      "actual": "REVIEW_REQUIRED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Temporary Magnetization through Stroking",
+      "learning_focus": "Making a temporary magnet using mechanical stroking",
+      "resources": [
+        "Needle",
+        "Magnet",
+        "Small paper clips"
+      ],
+      "procedure_steps": 1,
+      "reason": "REVIEW_REQUIRED: Exploratory idea is present, but central procedural steps (stroke direction, single vs double touch method, verifying polarity) and the theoretical connection (domain alignment) are omitted in the source."
+    },
+    {
+      "id": "TC_006_RESOURCE_ALONE",
+      "category": "resource_only",
+      "expected": "REJECTED",
+      "actual": "REJECTED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Standalone Teaching Resource Mention",
+      "learning_focus": "Resource repository",
+      "resources": [
+        "Supplementary Teaching Resources: Educational Video CD: 'Mysteries of Magnetism' (DIKSHA portal QR Code). Activity Worksheet No. 7: Magnetism Crossword Puzzle. Laboratory apparatus: Magnetic compass, Horseshoe magnet, iron stand."
+      ],
+      "procedure_steps": 0,
+      "reason": "REJECTED: Resources alone (videos, worksheets, apparatus) without an accompanying instructional sequence cannot be documented as a Teaching Method."
+    },
+    {
+      "id": "TC_007_ISOLATED_EXERCISE_QUESTIONS",
+      "category": "not_a_method",
+      "expected": "REJECTED",
+      "actual": "REJECTED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Isolated End-of-Chapter Assessment Questions",
+      "learning_focus": "Summative topic review",
+      "resources": [
+        "Not specified in source."
+      ],
+      "procedure_steps": 0,
+      "reason": "REJECTED: Standalone summative review questions do not constitute an instructional procedure."
+    },
+    {
+      "id": "TC_008_PLANT_IDENTIFICATION",
+      "category": "insufficient_procedure",
+      "expected": "REVIEW_REQUIRED",
+      "actual": "REVIEW_REQUIRED",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Plant Identification through Morphological Differences",
+      "learning_focus": "Identifying plants using observable differences in their plant parts (roots, stems, leaves, flowers, fruits)",
+      "resources": [
+        "Not specified in source."
+      ],
+      "procedure_steps": 1,
+      "reason": "REVIEW_REQUIRED: Source establishes a clear learning focus (identifying plants by part differences), but provides no step-by-step instructional sequence, materials, or student tasks. The procedure is insufficiently specified."
+    },
+    {
+      "id": "TC_009_ANGLE_BISECTOR",
+      "category": "valid_method",
+      "expected": "VALID_METHOD",
+      "actual": "VALID_METHOD",
+      "is_correct": true,
+      "candidates_found": 1,
+      "method_name": "Geometric Construction of an Angle Bisector",
+      "learning_focus": "Constructing an angle bisector using compass and ruler",
+      "resources": [
+        "Ruler",
+        "Protractor",
+        "Compass",
+        "Pencil"
+      ],
+      "procedure_steps": 4,
+      "reason": "VALID_METHOD: Complete ordered procedural sequence with designated geometric tools, student construction steps, and explicit geometric reasoning."
+    }
+  ]
+}
